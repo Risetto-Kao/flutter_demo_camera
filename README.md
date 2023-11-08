@@ -1,16 +1,6 @@
 # demo_camera
+簡單的 camera app，原則上就是按照[官方教學](https://docs.flutter.dev/cookbook/plugins/picture-using-camera)做
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Ref
+[Take a picture using the camera | Flutter](https://docs.flutter.dev/cookbook/plugins/picture-using-camera)
+[camera | Flutter Package](https://pub.dev/packages/camera#web-integration)
